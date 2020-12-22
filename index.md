@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## HotJar Feedback App
 
-Our team integrated a tool (HotJar) into our various websites to collect feedback regarding a user's experience on that certain site or particular page. This feedback could consist of a rating 1-5 representing an "emotion" for the experience as well as a text response to elaborate on any issues the user may have had.
+I built this app to integrate with the feedback tool installed on our externally-facing sites in an effort to collect and process feedback data and responses. Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).
 
 ![My helpful screenshot](rsolander.github.io/hjapp_demo.gif)

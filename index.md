@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Our team integrated a tool (HotJar) into our various websites to collect feedback regarding a user's experience on that certain site or particular page. This feedback could consist of a rating 1-5 representing an "emotion" for the experience as well as a text response to elaborate on any issues the user may have had.
 
-![My helpful screenshot](rsolander.github.io/pix_rob2.png)
+![My helpful screenshot](rsolander.github.io/hjapp_demo.gif)

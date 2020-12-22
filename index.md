@@ -38,6 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## HotJar Feedback App
 
-I built this app to integrate with the feedback tool installed on our externally-facing sites in an effort to collect and process feedback data and responses. Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).
+I built this app to integrate with the feedback tool installed on our externally-facing sites in an effort to collect and process feedback data and responses.
+Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).
+The app also highlights particular pages or sites that are recieving high frequencies of bad feedback, which has often led to the team discovering UX errors faster than before.
+Feedback responses over a certain period of time are included, along with information about the user submitting it (email, location, browser type).
 
 ![My helpful screenshot](rsolander.github.io/hjapp_demo.gif)

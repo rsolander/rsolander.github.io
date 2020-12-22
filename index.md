@@ -37,4 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## HotJar Feedback App
+
 Our team integrated a tool (HotJar) into our various websites to collect feedback regarding a user's experience on that certain site or particular page. This feedback could consist of a rating 1-5 representing an "emotion" for the experience as well as a text response to elaborate on any issues the user may have had.

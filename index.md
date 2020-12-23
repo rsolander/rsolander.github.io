@@ -37,9 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## HotJar Feedback App
-```
 [github/PyRepo](github.com/rsolander/PyRepo) | 12/22/2020
-```
+
 I built this app to integrate with the feedback tool installed on our externally-facing sites in an effort to collect and process feedback data and responses.
 Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).
 The app highlights particular pages or sites that are recieving high frequencies of bad feedback, which has often led to the team discovering UX errors faster than before.

@@ -42,7 +42,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 _No Repo Available | 12/22/2020_
 
 Can the collective mindset of a group of people be detrimental to preventing the spread of coronavirus?
-I collected US county population data, US county confirmed covid case data, and US county voting data (in the 20202 election) to see if..
+
+I collected US county population data, US county confirmed covid case data, and US county voting data (in the 20202 election) to see if anti-mask idiosyncrasies demonstrated by a group of people results in the amplified spread of coronavirus.
+
+While to most this may seem obvious, there are still people who doubt the effectiveness of mask-wearing and other recommended precautions, and I'm hoping that my study can help further reinforce the science behind these measures.
 
 > "From the moment President Trump announced recommendations from the Centers for Disease Control and Prevention to wear a face covering, he made clear that he did not personally like the idea. Early on, he made negative comments about masks and criticized people who wore them, and he has routinely refused to don one himself, even in places where mask use is required (though he did allow himself to be photographed in a mask for the first time last week, when he visited the Walter Reed National Military Medical Center). He is not alone among Republican officials in eschewing masks or downplaying their benefits, behavior that political scientists believe has encouraged a partisan split in who wears masks."
 

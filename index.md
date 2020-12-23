@@ -76,5 +76,5 @@ Feedback responses over a certain period of time are included, along with inform
 These responses are grouped by the particular site or country page that they were submitted for, and these buckets are sent to site owners or managers that can act upon any action items identitfied through these responses.
 I added code that utilizes SMTP to send these buckets in a weekly email, and I included a static web page interface for the marketing team where they can configure which emails recieve which site feedback.
 
-Coded in Python and features popular libraries such as Pandas, Plotly, and Requests. Front-end is constructed by the wonderful Streamlit.io.
+Coded in Python and features popular libraries such as pandas, smtplib, and requests. Front-end is constructed using the wonderful [Streamlit.io](https://www.streamlit.io/) framework.
 The app, email service, and email configuration UI are all deployed on an Amazon Web Services EC2 instance.

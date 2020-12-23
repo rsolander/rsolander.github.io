@@ -46,7 +46,13 @@ Can the collective mindset of a group of people be detrimental to preventing the
 I collected US county population data, US county confirmed covid case data, and US county voting data (in the 20202 election) to see if anti-mask idiosyncrasies demonstrated by a group of people results in the amplified spread of coronavirus.
 While to most this may seem obvious, there are still people who doubt the effectiveness of mask-wearing and other recommended precautions, and I'm hoping that my study can help further reinforce the science behind these measures.
 
-I represented the "groups of people" with the ~3000 counties in the united states, and I used voting results in the 2020 election as an indicator for how these counties approached coronavirus.
+I represented the "groups of people" with the ~3000 counties in the united states, and I used voting results in the 2020 election as an indicator for how these counties approached coronavirus:
+
+> "	Democrats and Democratic-leaning independents are about twice as likely as Republicans and Republican leaners to say that masks should be worn always (63% vs. 29%). Republicans are much more likely than Democrats to say that masks should rarely or never be worn (23% vs. 4%)."
+
+_From [Pew Reasearch Center Article - Republicans, Democrats Move Even Further Apart in Coronavirus Concerns](https://www.pewresearch.org/politics/2020/06/25/republicans-democrats-move-even-further-apart-in-coronavirus-concerns/)_
+
+Especially those supporting Trump in 2020 (and therefore voting republican) are more likely to share his dismissive attitude towards virus-reducing efforts:
 
 > "From the moment President Trump announced recommendations from the Centers for Disease Control and Prevention to wear a face covering, he made clear that he did not personally like the idea. Early on, he made negative comments about masks and criticized people who wore them, and he has routinely refused to don one himself, even in places where mask use is required (though he did allow himself to be photographed in a mask for the first time last week, when he visited the Walter Reed National Military Medical Center). He is not alone among Republican officials in eschewing masks or downplaying their benefits, behavior that political scientists believe has encouraged a partisan split in who wears masks."
 
@@ -55,6 +61,8 @@ _From [NYT Article - A Detailed Map of Who Is Wearing Masks in the U.S.](https:/
 I don't believe that everyone who voted republican is anti-mask and anti-science, but there is significant evidence that it's an indicator for that sentiment:
 
 > In general, Republicans are more likely to live in states with less population density, and in places that have had laxer rules about masks and lower rates of coronavirus infections, at least early in the pandemic. But research from a team that includes Shana Gadarian, an associate professor of political science at Syracuse University, has found that your political party is a better predictor of mask use than any other factor they measured. Her team compared people of the same age and living in the same ZIP code, and found partisan differences in mask behavior.
+
+_From [NYT Article - A Detailed Map of Who Is Wearing Masks in the U.S.](https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html)_
 
 I created a linear regression model representating the relationship between the % of a county voting republican in 2020 and the % of that same county testing positive for coronavirus:
 

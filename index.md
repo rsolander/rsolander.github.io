@@ -46,6 +46,8 @@ I collected US county population data, US county confirmed covid case data, and 
 
 > "From the moment President Trump announced recommendations from the Centers for Disease Control and Prevention to wear a face covering, he made clear that he did not personally like the idea. Early on, he made negative comments about masks and criticized people who wore them, and he has routinely refused to don one himself, even in places where mask use is required (though he did allow himself to be photographed in a mask for the first time last week, when he visited the Walter Reed National Military Medical Center). He is not alone among Republican officials in eschewing masks or downplaying their benefits, behavior that political scientists believe has encouraged a partisan split in who wears masks."
 
+Quote from somewhere.
+![Covid Vs Voting](rsolander.github.io/cov_vote_12_22.png)
 
 ---
 

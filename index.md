@@ -69,6 +69,8 @@ I created a linear regression model representating the relationship between the 
 ![Covid Vs Voting](rsolander.github.io/cov_vote_12_22.PNG)
 _Results as of 12/21/2020_
 
+This data is by no means an effort to sh** on republicans. I want it to be an important reminder that it's important to listen to medical professionals, scientists, and researches who truly want what's best for our well-being in times like this. It's important to releaize that dispectable people will use something like a pandemic to push a political agenda etc
+
 ---
 
 ## HotJar Feedback App

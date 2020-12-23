@@ -49,6 +49,7 @@ While to most this may seem obvious, there are still people who doubt the effect
 I represented the "groups of people" with the ~3000 counties in the united states, and I used voting results in the 2020 election as an indicator for how these counties approached coronavirus.
 
 > "From the moment President Trump announced recommendations from the Centers for Disease Control and Prevention to wear a face covering, he made clear that he did not personally like the idea. Early on, he made negative comments about masks and criticized people who wore them, and he has routinely refused to don one himself, even in places where mask use is required (though he did allow himself to be photographed in a mask for the first time last week, when he visited the Walter Reed National Military Medical Center). He is not alone among Republican officials in eschewing masks or downplaying their benefits, behavior that political scientists believe has encouraged a partisan split in who wears masks."
+
 _From <https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html>_
 
 I don't believe that everyone who voted republican is anti-mask and anti-science, but there is significant evidence that it's an indicator for that sentiment:

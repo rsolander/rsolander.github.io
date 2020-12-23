@@ -57,6 +57,7 @@ I don't believe that everyone who voted republican is anti-mask and anti-science
 > In general, Republicans are more likely to live in states with less population density, and in places that have had laxer rules about masks and lower rates of coronavirus infections, at least early in the pandemic. But research from a team that includes Shana Gadarian, an associate professor of political science at Syracuse University, has found that your political party is a better predictor of mask use than any other factor they measured. Her team compared people of the same age and living in the same ZIP code, and found partisan differences in mask behavior.
 
 I created a linear regression model representating the relationship between the % of a county voting republican in 2020 and the % of that same county testing positive for coronavirus:
+
 ![Covid Vs Voting](rsolander.github.io/cov_vote_12_22.PNG)
 _Results as of 12/21/2020_
 

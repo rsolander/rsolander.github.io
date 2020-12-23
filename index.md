@@ -38,8 +38,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ---
 
+## Making sense of 2020
+_No Repo Available | 12/22/2020_
+
+Can the collective mindset of a group of people be detrimental to preventing the spread of coronavirus?
+I collected US county population data, US county confirmed covid case data, and US county voting data (in the 20202 election) to see if..
+
+---
+
 ## HotJar Feedback App
-[github/PyRepo](github.com/rsolander/PyRepo) | 12/22/2020
+_[rsolander/PyRepo](github.com/rsolander/PyRepo) | 12/22/2020_
 
 I built this app to integrate with the feedback tool installed on our externally-facing sites in an effort to collect and process feedback data and responses.
 Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).

@@ -69,6 +69,8 @@ I created a linear regression model representating the relationship between the 
 ![Covid Vs Voting](rsolander.github.io/cov_vote_12_22.PNG)
 _Results as of 12/21/2020_
 
+The model isn't much use for predictive means but there's a clear relationship between counties that have an overwhelming 2020-republican mindset and the amount of positive cases they have. Again, this outcome seems plausible when people are refusing to wear masks, but this is hard evidence to fight any doubts.
+
 This data is by no means an effort to sh** on republicans. I want it to be an important reminder that it's important to listen to medical professionals, scientists, and researches who truly want what's best for our well-being in times like this. It's important to releaize that dispectable people will use something like a pandemic to push a political agenda etc
 
 ---

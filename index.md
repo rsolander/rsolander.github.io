@@ -76,7 +76,7 @@ This data is by no means an effort to sh** on republicans. I want it to be an im
 ---
 
 ## HotJar Feedback App
-_[rsolander/PyRepo](github.com/rsolander/PyRepo) | May 2020_
+_[rsolander/PyRepo](https://github.com/rsolander/PyRepo) | May 2020_
 
 I built this app to integrate with the feedback tool installed on our externally-facing sites in an effort to collect and process feedback data and responses.
 Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).

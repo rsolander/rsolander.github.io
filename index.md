@@ -1,3 +1,9 @@
+###Table of contents
+[Making sense of 2020](#making-sense-of-2020)
+[HotJar Feedback App](#hotjar-feedback-app)
+
+---
+
 ## Making sense of 2020
 _No Repo Available |  November 2020_
 

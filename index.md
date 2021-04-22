@@ -1,6 +1,19 @@
 ### Table of contents  
+[Automating Sharepoint Tickets](#automating-sharepoint-tickets)  
 [Making sense of 2020](#making-sense-of-2020)  
 [HotJar Feedback App](#hotjar-feedback-app)  
+
+---
+## Automating Sharepoint Tickets
+_[rsolander/sharepoint-feedback-automation](https://github.com/rsolander/sharepoint-feedback-automation) | April 2021_
+
+Following up on the work I did to help the marketing team process website feedback (learn more [here](#hotjar-feedback-app)) - they decided to create a sharepoint list to hold ticket items for any feedback they receive across our websites that they need to follow up on. Creating these tickets manually would be an incredibly tedious task, especially when 10-20 new feedback items are coming in daily. I built an Azure-registered application to automate the process of ticket creation and distribution: the app fetches the feedback data from our third party tool and then generates new tickets in sharepoint using microsoft Graph API sharepoint calls,  executing on a set schedule daily.
+
+Certain site feedback is conditionally assigned to the right people, and I'm currently working on training a Natural Language Processing classification model with spaCy to identify UX issues based on the context of the feedback message, and assign them to the user experience team. Stay tuned for updates!
+
+![NLP testing](nlp_example_pic.PNG)
+
+Built with Python and features popular libraries such as pandas, requests, and SpaCy. App is registered within Azure for secure sharepoint connection, and code runs on an Amazon Web Services EC2 instance.
 
 ---
 

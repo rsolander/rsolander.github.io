@@ -32,7 +32,7 @@ _From [NYT Article - A Detailed Map of Who Is Wearing Masks in the U.S.](https:/
 
 I created a linear regression model representating the relationship between the % of a county voting republican in 2020 and the % of that same county testing positive for coronavirus:
 
-![Covid Vs Voting](rsolander.github.io/cov_vote_12_22.PNG)
+![Covid Vs Voting](cov_vote_12_22.PNG)
 _Results as of 12/21/2020_
 
 The model isn't much use for predictive means but there's a clear relationship between counties that have an overwhelming 2020-republican mindset and the amount of positive cases they have. Again, this outcome seems plausible when people are refusing to wear masks, but this is hard evidence to fight any doubts.
@@ -48,7 +48,7 @@ I built this app to integrate with the feedback tool installed on our externally
 Our marketing team and website owners use the app to discover patterns in the types of feedback being recieved (good vs bad) as well as where various types of feedback are coming from (are users from certain countries having a worse / better experience than others?).
 The app highlights particular pages or sites that are recieving high frequencies of bad feedback, which has often led to the team discovering UX errors faster than before.
 
-![My helpful screenshot](rsolander.github.io/hjapp_demo.gif)
+![My helpful screenshot](hjapp_demo.gif)
 
 Feedback responses over a certain period of time are included, along with information about the user submitting it (email, location, browser type).
 These responses are grouped by the particular site or country page that they were submitted for, and these buckets are sent to site owners or managers that can act upon any action items identitfied through these responses.

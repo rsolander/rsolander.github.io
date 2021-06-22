@@ -9,7 +9,7 @@ _[rsolander/sharepoint-feedback-automation](https://github.com/rsolander/sharepo
 
 Following up on the work I did to help the marketing team process website feedback (learn more [here](#hotjar-feedback-app)) - they decided to create a sharepoint list to hold ticket items for any feedback they receive across our websites that they need to follow up on. Creating these tickets manually would be an incredibly tedious task, especially when 10-20 new feedback items are coming in daily. I built an Azure-registered application to automate the process of ticket creation and distribution: the app fetches the feedback data from our third party tool and then generates new tickets in sharepoint using microsoft Graph API sharepoint calls,  executing on a set schedule daily.
 
-Certain site feedback is conditionally assigned to the right people, and I'm currently working on training a Natural Language Processing classification model with spaCy to identify UX issues based on the context of the feedback message, and assign them to the user experience team. Stay tuned for updates!
+Site feedback is conditionally assigned to relevant stakeholders, and I deployed a Natural Language Processing classification model with spaCy to identify UX issues based on the content of the feedback message, which then flags these issues for the user experience team. I trained the model using a large dataset of feedback collected over the span of a few months.
 
 ![NLP testing](nlp_example_pic.PNG)
 

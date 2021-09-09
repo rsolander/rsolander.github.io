@@ -77,6 +77,6 @@ _No Repo Available | Jan 2018_
 
 What better way to intersect my interests in both art and engineer than to build a rideable burning man vehicle - my senior capstone group and I chose to construct an art car out of old repurposed bike parts, several machined metal and plastic components, and some very fun LED wires.
 
-![Capstone 1](capstone2.jpg)
+![Capstone pic](capstone3.jpg)
 
 Final stage remains incomplete: attend burning man... one day!

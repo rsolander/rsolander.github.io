@@ -2,6 +2,7 @@
 [Automating Sharepoint Tickets](#automating-sharepoint-tickets)  
 [Making sense of 2020](#making-sense-of-2020)  
 [HotJar Feedback App](#hotjar-feedback-app)  
+[Burning man vehicle](#senior-capstone-project---burning-man-vehicle)  
 
 ---
 ## Automating Sharepoint Tickets

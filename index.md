@@ -76,8 +76,8 @@ The app, email service, and email configuration UI are all deployed on an Amazon
 ## Senior Capstone Project - Burning Man Vehicle
 _No Repo Available | Jan 2018_
 
-What better way to intersect my interests in both art and engineer than to build a rideable burning man vehicle - my senior capstone group and I chose to construct an art car out of old repurposed bike parts, several machined metal and plastic components, and some very fun LED wires.
+What better way to intersect my interests in both art and engineering than to build a rideable burning man vehicle - my senior capstone group and I chose to construct an art car out of repurposed bike parts, several machined metal and plastic components, and some very fun LED wires.
 
 ![Capstone pic](capstone3.jpg)
 
-Final stage remains incomplete: attend burning man... one day!
+Final stage remains incomplete: attend burning man...

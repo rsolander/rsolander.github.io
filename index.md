@@ -69,3 +69,14 @@ I added code that utilizes SMTP to send these buckets in a weekly email, and I i
 
 Coded in Python and features popular libraries such as pandas, smtplib, and requests. Front-end is constructed using the wonderful [Streamlit.io](https://www.streamlit.io/) framework.
 The app, email service, and email configuration UI are all deployed on an Amazon Web Services EC2 instance.
+
+---
+
+## Senior Capstone Project - Burning Man Vehicle
+_No Repo Available | Jan 2018_
+
+What better way to intersect my interests in both art and engineer than to build a rideable burning man vehicle - my senior capstone group and I chose to construct an art car out of old repurposed bike parts, several machined metal and plastic components, and some very fun LED wires.
+
+![Capstone 1](capstone2.PNG)
+
+Final stage remains incomplete: attend burning man... one day!

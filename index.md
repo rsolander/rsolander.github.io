@@ -1,10 +1,27 @@
 ### Table of contents  
+[Mordle](#mordle)  
 [Automating Sharepoint Tickets](#automating-sharepoint-tickets)  
 [Making sense of 2020](#making-sense-of-2020)  
 [HotJar Feedback App](#hotjar-feedback-app)  
 [Burning man vehicle](#senior-capstone-project---burning-man-vehicle)  
 
 ---
+## Mordle
+_[rsolander/mordle](https://github.com/rsolander/mordle) | April 2022_
+
+Early in 2022 I was a shameless Wordle enjoyer. It was a daily habit that lasted surprisingly long given how simple the concept was, but it got me thinking - could I reverse engineer the game? And if so, could I add some new functionality?
+
+I started building Mordle (more Wordle) as an Angular application with no backend. I used a dictionary API to generate puzzles and allowed the user to play as many times as desired. I also added extended customization:
+> Users can set the number of guesses allowed
+
+> Users can adjust how long the word is... spanning up to 8 letters!
+
+> Users can enable a "weird mode" which prompts for more obscure, uncommon words
+
+![Mordle example](mordle_screenshot.png)
+
+---
+
 ## Automating Sharepoint Tickets
 _[rsolander/sharepoint-feedback-automation](https://github.com/rsolander/sharepoint-feedback-automation) | April 2021_
 
